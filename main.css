@@ -1,0 +1,25 @@
+body{
+    
+    background-color: #89CFFF;
+    font-family: 'Pacifico', cursive;
+    
+    color: purple;
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 29%;
+}
+p{
+    font-size: 149%;
+}
+
+#list1{
+    color: blue;
+    background-color: purple;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 150%;
+}
